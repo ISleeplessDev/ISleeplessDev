@@ -2,7 +2,10 @@
 
 Passionate software engineering student specializing in backend development, particularly in Java. I thrive on crafting robust and efficient solutions, leveraging my skills to tackle complex challenges. Aspiring team player eager to collaborate and contribute to innovative projects. Currently pursuing a degree in Software Engineering, I bring a strong foundation in programming principles and a drive to continuously learn and grow. Let's join forces and create exceptional software together!
 
-### 🧰 Languages and Tools
+### 🔧 Languages and Tools 🛠
+
+  ---
+  
 [](https://img.shields.io/badge/Editor-Visual_Studio-informational?logo=visual-studio&style=plastic)
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
