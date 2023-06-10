@@ -6,7 +6,7 @@ Passionate software engineering student specializing in backend development, par
 
   ---
   
-[](https://img.shields.io/badge/Editor-Visual_Studio-informational?logo=visual-studio&style=plastic)
+![](https://img.shields.io/badge/Editor-Visual_Studio-informational?logo=visual-studio&style=plastic)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?logo=azure&style=plastic)
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
